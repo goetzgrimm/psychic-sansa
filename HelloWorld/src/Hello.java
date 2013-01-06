@@ -1,6 +1,8 @@
 
 public class Hello {
 
+	public static int N = 100;
+	
 	/**
 	 * Implement the application
 	 * 
