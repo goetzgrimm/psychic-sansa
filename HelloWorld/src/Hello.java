@@ -10,5 +10,6 @@ public class Hello {
 		System.out.println("Hello, world!");
 		System.out.println("Hello, psychic-sansa2!");
 		System.out.println("Hello, world 1!");
+		System.out.println("Hello dev 1");
 	}
 }
