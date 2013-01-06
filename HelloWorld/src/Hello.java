@@ -2,7 +2,8 @@
 public class Hello {
 
 	public static int N = 100;
-	
+	public static int M = 1001;
+
 	/**
 	 * Implement the application
 	 * 
@@ -12,5 +13,11 @@ public class Hello {
 		System.out.println("Hello, world!");
 		System.out.println("Hello, psychic-sansa2!");
 		System.out.println("Hello, world 1!");
+		System.out.println("Hello dev 4");
+		System.out.println("Hello dev 6");
+		System.out.println("Hello dev 5");
+	}
+	
+	public void foo() {
 	}
 }
