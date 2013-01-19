@@ -15,6 +15,7 @@ public class Hello {
 		System.out.println("Hello dev 4");
 		System.out.println("Hello dev 6");
 		System.out.println("Hello dev 8");
+		System.out.println("Hello dev 7");
 	}
 	
 	public void foo() {
