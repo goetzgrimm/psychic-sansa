@@ -11,7 +11,7 @@ public class Hello {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Hello, world!");
-		System.out.println("Hello, psychic-sansa2! master 003");
+		System.out.println("Hello, psychic-blah cr-001 3");
 	}
 	
 	public void foo() {
